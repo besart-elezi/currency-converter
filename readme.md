@@ -2,6 +2,9 @@
 
 This project is a dynamic and responsive currency converter web app. It allows users to view exchange rates, add new currency pairs, and search existing rates. The application is built using HTML, CSS, and JavaScript and emphasizes core concepts like DOM manipulation, fetch API, responsive UI design, and time-based logic.
 
+<img width="1430" alt="Screenshot 2025-04-12 at 23 04 51" src="https://github.com/user-attachments/assets/80a7ddeb-049d-44cb-9e06-2a619be854de" />
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
